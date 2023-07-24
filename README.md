@@ -11,7 +11,7 @@ wxwork_pc_api 使用HOOK技术将核心功能封装成dll，并提供简易的�
 
 目前测试可以使用语言有C/C++，C#，易语言，Python, Java, Go, NodeJs, PHP, VB, Delphi。
 
-目前支持的企业微信PC版本是3.0.14.1205, 使用api前，先这里下载并安装[WXWork_3.0.14.1205.exe](https://pan.baidu.com/s/1_AxfIGBEeKoEzItMKAiSUQ)  提取码：8fnk
+
 
 
 功能清单
@@ -36,11 +36,6 @@ wxwork_pc_api 使用HOOK技术将核心功能封装成dll，并提供简易的�
 - 接收红包消息
 - 接收小程序消息
 
-文档
-----------------------------
-- [DLL接口介绍](doc/dll.md)
-- [API接口参数](https://www.showdoc.cc/868510429078104)
-- [Python调用介绍](doc/python.md)
 
 
 具体使用可以暂时参考samples/python/demo.py, 如下是python封装后的调用
